@@ -9,4 +9,4 @@ const pow = (x, n) => {
 }
 
 const result = pow(5, 3)
-console.log(result) // 125
+console.log(result)
